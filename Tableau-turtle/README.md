@@ -1,0 +1,1 @@
+L'objectif de ce TP était d'utiliser le module Turtle de Python pour dessiner des formes simples, dans un premier temps, comme un carré ou un cercle. Il fallait ensuite utiliser ces formes pour en créer de nouvelles plus complexes et ainsi réaliser un "tableau". J'ai choisi d'utiliser ces formes pour dessiner une ville de taille et de forme aléatoire.
