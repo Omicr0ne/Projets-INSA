@@ -1,0 +1,1 @@
+Ce projet visait à découvrir la programmation en Pascal. Il s'agit d'un jeu constitué d'une série d'allumettes qui oppose 2 joueurs qui doivent retirer à tour de rôle 1, 2 ou 3 allumettes de la série. Le dernier à retirer des allumettes gagne la partie.
